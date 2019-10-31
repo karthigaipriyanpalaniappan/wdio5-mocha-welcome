@@ -6,10 +6,10 @@ Repo contain Sample project for WDIO5 with Mocha framework, Mochawesome as Repor
 - NPM: >= 6.x
 
 ## Usage
-'''sh
+```sh
 npm install
 npm run smoke
-'''
+```
 
 ## Test Results
 Once execution completed "TestResults" folder will be created automatically to store the MochawesomeReportGenerator html file.
